@@ -1,2 +1,4 @@
 [1229/203717.403:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
 [0102/070945.342:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0102/161220.213:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0102/162220.261:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
